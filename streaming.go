@@ -1,4 +1,4 @@
-package xmljsontransformation
+package json_xml_transformation
 
 import (
 	"encoding/json"

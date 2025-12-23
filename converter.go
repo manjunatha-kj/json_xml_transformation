@@ -1,4 +1,4 @@
-package xmljsontransformation
+package json_xml_transformation
 
 type Converter interface {
 	JSONToXML(jsonData []byte, opts ...Option) ([]byte, error)
